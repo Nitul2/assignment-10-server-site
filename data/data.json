@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "title": "Javascripr",
+        "price": 1000,
+        "info": "জাভাস্ক্রিপ্ট ইন্টারনেটে ব্যবহৃত অন্যতম সবচেয়ে জনপ্রিয় স্ক্রিপ্টিং ল্যাংগুয়েজ। জাভাস্ক্রিপ্ট হল একটি ক্লায়েন্ট সাইড স্ক্রিপ্টিং বা ব্রাউজার স্ক্রিপ্টিং ল্যাংগুয়েজ। জাভাস্ক্রিপ্ট একটি প্রোটোটাইপ-ভিত্তিক স্ক্রিপ্টিং ল্যাংগুয়েজ যাতে পরিবর্তনশীল, দুর্বল টাইপ এবং প্রথম শ্রেণীর ফাংশন আছে।",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png",
+        "rating": {
+            "rate": 5,
+            "enroll": 1500
+        }
+    },
+    {
+        "id": 2,
+        "title": "React Js",
+        "price": 1000,
+        "info": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.",
+        "img": "https://jelvix.com/wp-content/uploads/2018/01/react-performance.jpg",
+        "rating": {
+            "rate": 5,
+            "enroll": 2000
+        }
+    },
+    {
+        "id": 3,
+        "title": "HTML",
+        "price": 1000,
+        "info": "হাইপার টেক্সট মার্কআপ ল্যাঙ্গুয়েজ হলো একটি মার্ক আপ ল্যাঙ্গুয়েজ। এইচটিএমএল এর মার্ক আপ ট্যাগ সমূহ ব্যবহার করে ওয়েবপেজ এর বেসিক কাঠামো তৈরি করা হয়। প্রকৃত অর্থে এটি কোনো প্রোগ্রামিং ল্যাংগুয়েজ নয় বরং একটি মার্কআপ ল্যাংগুয়েজ যা একসারি মার্কআপ ট্যাগ এর সমন্বয় গঠিত।",
+        "img": "https://happycoding.io/tutorials/html/images/html-3.png",
+        "rating": {
+            "rate": 4,
+            "enroll": 900
+        }
+    },
+    {
+        "id": 4,
+        "title": "CSS",
+        "price": 1000,
+        "info": "ক্যাসকেডিং স্টাইল শীটস হল একটি স্টাইল শীট ভাষা যা এইচটিএমএলের মত মার্কআপ ভাষায় লিখিত ডকুমেন্ট কীভাবে উপস্থাপিত হবে তা বর্ণনা করতে ব্যবহৃত হয়। এইচটিএমএল ও জাভাস্ক্রিপ্টের সাথে সিএসএস হল ওয়ার্ল্ড ওয়াইড ওয়েবের ভিত্তি প্রযুক্তি।",
+        "img": "https://i.ytimg.com/vi/PUOcI8XuDDU/maxresdefault.jpg",
+        "rating": {
+            "rate": 4.5,
+            "enroll": 1400
+        }
+    },
+    {
+        "id": 5,
+        "title": "GITHUB",
+        "price": 1000,
+        "info": "গিটহাব, ইংক. সফটওয়্যার সংস্করণ নিয়ন্ত্রণ প্রোগ্রাম গিট ব্যবহার করে সংস্করণ নিয়ন্ত্রণের জন্যে একটি ওয়েব-ভিত্তিক হোস্টিং সেবা। এটি বর্তমানে মাইক্রোসফটের অধীনস্থ একটি কোম্পানি, মাইক্রোসফট যেটি ২০১৮ সালে ৭.৫ বিলিয়ন ডলারে ক্রয় করে নেয়।",
+        "img": "https://github.githubassets.com/images/modules/open_graph/github-octocat.png",
+        "rating": {
+            "rate": 3.5,
+            "enroll": 1002
+        }
+    },
+    {
+        "id": 6,
+        "title": "Node Js",
+        "price": 1000,
+        "info": "Node.js হচ্ছে একটি ওপেন সোর্স, ক্রস প্ল্যাটফর্ম, জাভাস্ক্রিপ্ট রান-টাইম এনভাইরোনমেন্ট যা ব্রাউজারের বাইরে টার্মিনালে কম্পাইল করা হয়, এটি মূলত সার্ভার সাইড স্ক্রিপ্টিং ও কমান্ড লাইন টুল এর জন্য ব্যাবহৃত হয়।",
+        "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--e_rqeB7o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2400/1%2AFPtQLT2Zk-baHficCz_mXQ.png",
+        "rating": {
+            "rate": 4.3,
+            "enroll": 1005
+        }
+    }
+]
